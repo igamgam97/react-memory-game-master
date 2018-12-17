@@ -1,5 +1,15 @@
 # React memory game
 
+## Adress website
+[https://productsforfriends-e1812.firebaseapp.com/login](https://productsforfriends-e1812.firebaseapp.com/login)
+
+## Links
+ *new-game
+ *game
+ *menu
+ *end-game
+ *login
+
 ## Stack
 React,Store,Jest,Firebase
 
